@@ -1,0 +1,10 @@
+D:\2nd sem\Integrated Programming\BMI_Automated_Computing_cs4\BMI_Automated_Computing_cs4\obj\Debug\BMI_Automated_Computing_cs4.csproj.AssemblyReference.cache
+D:\2nd sem\Integrated Programming\BMI_Automated_Computing_cs4\BMI_Automated_Computing_cs4\obj\Debug\BMI_Automated_Computing_cs4.Form1.resources
+D:\2nd sem\Integrated Programming\BMI_Automated_Computing_cs4\BMI_Automated_Computing_cs4\obj\Debug\BMI_Automated_Computing_cs4.Properties.Resources.resources
+D:\2nd sem\Integrated Programming\BMI_Automated_Computing_cs4\BMI_Automated_Computing_cs4\obj\Debug\BMI_Automated_Computing_cs4.csproj.GenerateResource.cache
+D:\2nd sem\Integrated Programming\BMI_Automated_Computing_cs4\BMI_Automated_Computing_cs4\obj\Debug\BMI_Automated_Computing_cs4.csproj.CoreCompileInputs.cache
+D:\2nd sem\Integrated Programming\BMI_Automated_Computing_cs4\BMI_Automated_Computing_cs4\bin\Debug\BMI_Automated_Computing_cs4.exe.config
+D:\2nd sem\Integrated Programming\BMI_Automated_Computing_cs4\BMI_Automated_Computing_cs4\bin\Debug\BMI_Automated_Computing_cs4.exe
+D:\2nd sem\Integrated Programming\BMI_Automated_Computing_cs4\BMI_Automated_Computing_cs4\bin\Debug\BMI_Automated_Computing_cs4.pdb
+D:\2nd sem\Integrated Programming\BMI_Automated_Computing_cs4\BMI_Automated_Computing_cs4\obj\Debug\BMI_Automated_Computing_cs4.exe
+D:\2nd sem\Integrated Programming\BMI_Automated_Computing_cs4\BMI_Automated_Computing_cs4\obj\Debug\BMI_Automated_Computing_cs4.pdb
